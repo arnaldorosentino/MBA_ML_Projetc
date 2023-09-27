@@ -15,7 +15,7 @@ Machine Learning é utilizado para modelar e prever a geração de energia renov
 O modelo servirá como uma ferramenta para operadores e gestores de energia, auxiliando na tomada de decisões estratégicas e operacionais, tais como ajustes na produção, para conformidade com as cotas de geração.
 
 4) **Métrica de Avaliação**
-A eficácia do modelo é avaliada por métricas como MAE, MSE, RMSE, MAPE e PDA e explained_variance_score, que quantificam a diferença entre os valores previstos e reais, permitindo uma análise robusta do desempenho do modelo.
+A eficácia do modelo é avaliada por métricas como MAE, RMSE, MAPE e explained_variance_score, que quantificam a diferença entre os valores previstos e reais, permitindo uma análise robusta do desempenho do modelo.
 
 5) **Avaliação do Modelo (Desenho do Piloto)**
 A avaliação será realizada através de comparação entre as previsões do modelo e os dados reais dos meses de 2023, permitindo identificar os ajustes necessários para melhorar a precisão do modelo.
