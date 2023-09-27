@@ -27,9 +27,6 @@ A avaliação será realizada através de comparação entre as previsões do mo
 ## 1) Inicialização (Importação de Bibliotecas)
    É a fase onde se importam as bibliotecas necessárias para realizar a análise de séries temporais. As bibliotecas são conjuntos de funções e métodos que permitem a execução de tarefas específicas na análise.
 
-!pip install sktime
-!pip install pmdarima
-
 ## 2) Importação e Ajuste de Dataset (Tratamento dos Dados)
    Importa-se o conjunto de dados e realiza-se ajustes necessários, como limpeza e transformação de dados, para garantir que estão em um formato adequado para análise.
 
@@ -41,10 +38,3 @@ A avaliação será realizada através de comparação entre as previsões do mo
 
 ## 5) Transformação Inversa e Previsões Futuras
    Após a modelagem com a série transformada, realiza-se uma transformação inversa para visualizar os dados em sua escala original e efetuar previsões futuras.
-
-
-## Find me around the world 🌎
-
-* [Linkedin](https://www.linkedin.com/in/arnaldo-rosentino/)
-* [Instagram](https://www.instagram.com/arnaldo.rosentino/)
-* [Twitter](https://twitter.com/arnaldojpr/status/635559102899425281)
