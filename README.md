@@ -7,7 +7,7 @@ Portanto, o propósito principal deste projeto é emular um cenário onde se pre
 
 1) **Dados Disponíveis**
 Para emular usinas híbridas de geração (eólica e solar) o projeto se baseia em dados disponibilizados pelo ONS (Balanço de Energia nos Subsistemas de 2014 a 2023).
-* [Link de Acesso](https://dados.ons.org.br/dataset/balanco-energia-subsistema)
+> * [Link de Acesso](https://dados.ons.org.br/dataset/balanco-energia-subsistema)
 
 3) **Aplicação de Machine Learning**
 Machine Learning é utilizado para modelar e prever a geração de energia renovável. Por meio de algoritmos de aprendizado, busca-se identificar padrões na série temporal e realizar previsões precisas para futuras gerações de energia (Pelo menos 12 meses).
