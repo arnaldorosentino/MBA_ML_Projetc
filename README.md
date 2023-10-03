@@ -34,7 +34,7 @@ A avaliação será realizada através de comparação entre as previsões do mo
    Aqui, a série temporal é visualizada, decomposta em seus componentes (tendência, sazonalidade e ruído) e avaliada quanto à sua estacionariedade. Utiliza-se teste de Dickey Fuller para analisar a estacionaridade e, se necessário, aplica-se diferenciação para tornar a série estacionária. A Análise de Autocorrelação (ACF) e Autocorrelação Parcial (PACF) também é realizada nesta etapa.
 
 ## 4) Modelagem
-   São aplicados diferentes modelos estatísticos, como AR, MA, ARMA e ARIMA, para encontrar o melhor modelo preditivo. A qualidade destes modelos é avaliada por meio de métricas de erro.
+   Nesse estudo foram aplicadas modelos estatísticos mais básicos, como AR, MA, ARMA e ARIMA, para encontrar o melhor modelo preditivo. A qualidade destes modelos foram avaliadas por meio de métricas de erro.
 
 ## 5) Transformação Inversa e Previsões Futuras
    Após a modelagem com a série transformada, realiza-se uma transformação inversa para visualizar os dados em sua escala original e efetuar previsões futuras.
