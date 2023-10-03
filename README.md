@@ -23,7 +23,9 @@ A avaliação será realizada através de comparação entre as previsões do mo
  
 
 # Estrutura da Análise de Dados
-![image](https://github.com/arnaldorosentino/MBA_ML_Projetc/assets/104164948/69317c91-134c-459a-84d9-cd5e448ff4b2)
+<p align="center">
+  <img src="https://github.com/arnaldorosentino/MBA_ML_Projetc/assets/104164948/69317c91-134c-459a-84d9-cd5e448ff4b2" alt="Fluxograma" width="auto" height="auto">
+</p>
 
 ## 1) Inicialização (Importação de Bibliotecas)
    É a fase onde se importam as bibliotecas necessárias para realizar a análise de séries temporais. As bibliotecas são conjuntos de funções e métodos que permitem a execução de tarefas específicas na análise.
